@@ -1,7 +1,6 @@
 {
   "name": "gym",
   "version": "0.1.0",
-  "homepage": "http://cornelia-hoppe.github.io/gym",
   "private": true,
   "dependencies": {
     "@firebase/firestore": "^3.5.0",
